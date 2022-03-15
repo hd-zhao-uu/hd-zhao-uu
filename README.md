@@ -3,9 +3,13 @@
 ## 😜 About Me
 
 - 🔭 I’m currently a master student at Uppsala University
+
 - 🌱 I’m currently learning 
-    1. Functional Programming(Haskell) 
-    2. Parallel Programming
+    1. Computer Architecture
+    2. CUDA
+    3. Parallel Programming
+    4. Computer Graphics
+
 - 🌐 Something about Languages:  
     |  Language   | Proficiency  |
     |  ----  | ----  |
@@ -14,4 +18,4 @@
 
 
 ## ✨ My GitHub stats
-![](https://github-readme-stats.vercel.app/api?username=hd-zhao-uu)
+![haodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hd-zhao-uu&count_private=true&theme=tokyonight&show_icons=true)
