@@ -6,9 +6,10 @@
 
 - 🌱 I’m currently learning 
     1. Computer Architecture
-    2. CUDA
-    3. Parallel Programming
-    4. Computer Graphics
+    2. Parallel Programming(CUDA, pthread. OpenMP, MPI, etc.)
+    3. Computer Graphics
+    4. Modern C++
+    5. Haskell
 
 - 🌐 Something about Languages:  
     |  Language   | Proficiency  |
