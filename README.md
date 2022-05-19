@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning 
     1. Computer Architecture
-    2. Parallel Programming(CUDA, pthread. OpenMP, MPI, etc.)
+    2. Parallel Programming(CUDA, pthread, OpenMP, MPI, etc.)
     3. Computer Graphics
     4. Modern C++
     5. Haskell
@@ -19,4 +19,4 @@
 
 
 ## ✨ My GitHub stats
-![haodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hd-zhao-uu&count_private=true&theme=tokyonight&show_icons=true)
+![haodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hd-zhao-uu&count_private=true&theme=swift&show_icons=true)
