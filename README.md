@@ -2,9 +2,9 @@
 
 ## 😜 About Me
 
-- 🔭 I’m currently a master student at Uppsala University
+- 🔭 I’m currently a software engineer in a Swedish Company.
 
-- 🌱 I’m currently learning 
+- 🌱 I’m interested in
     1. Computer Architecture
     2. Parallel Programming(CUDA, pthread, OpenMP, MPI, etc.)
     3. Computer Graphics
@@ -14,10 +14,8 @@
     7. Graph Neural Networks
 
 - 🌐 Something about Languages:  
-    |  Language   | Proficiency  |
-    |  ----  | ----  |
-    | Chinese | Native |
-    | English  | C1 (IELTS Academic 7.0) |
+    1. Chinese
+    2. English
 
 
 ## ✨ My GitHub stats
